@@ -1,0 +1,1 @@
+# conversor-salario-usd-brl
