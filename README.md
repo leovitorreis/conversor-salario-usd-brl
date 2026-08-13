@@ -23,10 +23,10 @@ O sistema coleta dados fundamentais do utilizador: valor da hora, horas trabalha
    pip install requests
 
 1. Execute o script com o comando:
-   '''Bash
-  python conversor.py
+   ```bash
+   python conversor.py
 
-2. Siga as instruções no terminal informando os seus dados de trabalho.
+3. Siga as instruções no terminal informando os seus dados de trabalho.
 
 👨‍💻 Autor
 
